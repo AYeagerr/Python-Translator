@@ -32,7 +32,3 @@ A simple translation app created with Python, featuring a basic graphical user i
 - `ssl`: Used for handling SSL/TLS connections with `_create_unverified_context`.
 - `tkinter`: Used for creating the GUI.
 - `libretranslatepy`: A Python wrapper for the LibreTranslate API, which provides language detection and translation services.
-
-## License
-
-This project is licensed under the MIT License
