@@ -9,6 +9,9 @@ A simple translation app created with Python, featuring a basic graphical user i
 - Clear the input and output text fields.
 - Easy-to-use graphical interface.
 
+## Screenshots
+![Screenshot 2023-09-17 193337](https://github.com/AYeagerr/Python-Translator/assets/138893669/194664ad-1a15-425f-9221-5010e7884f93)
+
 ## Usage
 
 1. Enter the text you want to translate in the "Enter text" field.
