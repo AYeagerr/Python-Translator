@@ -23,14 +23,9 @@ A simple translation app created with Python, featuring a basic graphical user i
 
 ## Installation
 
-1. Clone the repository:
-   git clone [https://github.com/yourusername/yourrepository.git](https://github.com/AYeagerr/Python-Translator)
-2. Navigate to the project directory:
-   cd Python-Translator
-3. Install the required dependencies:
-   pip install -r requirements.txt
-4. Run the application:
-   python main.py
+1. **Download the Executable**: Visit the [Releases](link_to_releases_page) page of this repository and download the latest executable for your platform (e.g., `Language Exchange.exe` for Windows).
+
+2. **Run the Executable**: Double-click the downloaded executable to run the program. It will open a graphical user interface (GUI) for translation.
 
 ## Libraries and APIs Used
 
